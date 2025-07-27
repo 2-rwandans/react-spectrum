@@ -19,3 +19,4 @@ packages/dev/storybook-builder-parcel/iframe.html
 packages/dev/storybook-builder-parcel/preview.js
 starters/docs/registry
 starters/tailwind/registry
+config.bat
