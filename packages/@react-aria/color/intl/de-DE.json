@@ -1,8 +1,0 @@
-{
-  "colorInputLabel": "{label}, {channelLabel}",
-  "colorNameAndValue": "{name}: {value}",
-  "colorPicker": "Farbwähler",
-  "colorSwatch": "Farbfeld",
-  "transparent": "transparent",
-  "twoDimensionalSlider": "2D-Schieberegler"
-}

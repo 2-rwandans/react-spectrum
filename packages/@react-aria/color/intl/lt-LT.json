@@ -1,8 +1,0 @@
-{
-  "colorInputLabel": "{label}, {channelLabel}",
-  "colorNameAndValue": "{name}: {value}",
-  "colorPicker": "Spalvų parinkiklis",
-  "colorSwatch": "spalvų pavyzdys",
-  "transparent": "skaidrus",
-  "twoDimensionalSlider": "2D slankiklis"
-}
